@@ -1,0 +1,9 @@
+mode=3 /Comet
+NP_OIDirection=0      /Direction
+NP_OITIME=150         /Time
+NP_OIBLOCKSIZE=15     /Length
+NP_OIBLOCKCOLORR=255  /Red color
+NP_OIBLOCKCOLORG=255  /Green color
+NP_OIBLOCKCOLORB=255  /Blue color
+NP_OIBLOCKRATE=50  /Full bright length rate
+NP_OIMixRate=60    /color mix rate
